@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> 记事本</title>
+    <meta charset="UTF-8">
+    <title>todoList</title>
+   
+</head>
+<body >
+    <input type="text" id="content"> 
+    <button id="btn">添加新事件</button>
+    <ul id="todoList">
+        <li>事项1 <span>&times;</span></li>
+		
+        <li>事项2 <span>&times;</span></li>
+		
+        <li>事项3 <span>&times;</span></li>
+		
+        <li>事项4 <span>&times;</span></li>

@@ -1,0 +1,35 @@
+
+        #todoList {
+            list-style: none;
+            margin:10px 0px;
+            padding:0;
+            width:600px;
+        }
+        #todoList li {
+            margin-bottom:5px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background:#f5f5f5;
+            position: relative;
+        }
+        input {
+            padding:10px;
+            font-size:16px;
+            border:1px solid #ccc;
+        }
+        button {
+            padding:10px 20px;
+            border:1px solid #ccc;
+            background: #f5f5f5;
+            outline: none;
+            cursor: pointer;
+        }
+
+        #todoList span {
+            position: absolute;
+            right: 10px;
+            cursor: pointer;
+        }
+		#wann  span{
+	    color ：white；
+	}
